@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL:
+- Solution URL: https://github.com/DanielaMichelle/base-apparel-coming-soon-master
+- Live Site URL: https://danielamichelle.github.io/base-apparel-coming-soon-master/
 
 ### Built with
 
